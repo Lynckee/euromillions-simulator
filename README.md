@@ -37,7 +37,7 @@ This code simulates 1000 instances of playing EuroMillions for 50 years and save
 ## 📂 Installation  
 
 ```bash
-git clone https://github.com/your-repo/euromillions-simulator.git
+git clone https://github.com/euromillions-simulator.git
 cd euromillions-simulator
 pip install -r requirements.txt
 ```  
